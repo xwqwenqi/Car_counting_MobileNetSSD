@@ -1,0 +1,3 @@
+1.  使用 txt_label_to_VOC.py程序将数据集中的train.txt的标注文件转化为 VOC2007的标注文件格式；
+2.  利用 make_train_val_txt.py 制作train和 val 使用的图片列表txt文件；
+3.
